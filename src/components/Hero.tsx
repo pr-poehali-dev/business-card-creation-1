@@ -10,7 +10,7 @@ const Hero = () => {
             <Icon name="UserCheck" size={48} className="text-white" />
           </div>
           <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent">
-            Анна Петрова
+            Людмила
           </h1>
           <h2 className="text-2xl font-light mb-6 text-purple-200">
             Клин Менеджер
